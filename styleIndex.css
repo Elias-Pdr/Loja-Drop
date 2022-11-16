@@ -180,7 +180,7 @@ footer{
     width: 100%;
     background-color: aliceblue;
     
-    position: absolute;
+    position: fixed;
     bottom: 0;
     
 }
